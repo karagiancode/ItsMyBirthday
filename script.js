@@ -7,7 +7,7 @@ const eventConfig = {
     hour: 21,
     minute: 0,
     title: "BIRTHDAY PARTY 2026",
-    location: "Λεωφόρος Νίκης 1, Θεσσαλονίκη",
+    location: "Στρατηγού Μπραντούνα 3, Θεσσαλονίκη",
     details: "Σε περιμένω στο καλύτερο πάρτυ γενεθλίων!"
 };
 
@@ -68,4 +68,5 @@ if (calendarBtn) {
         // Άνοιγμα σε νέο tab
         window.open(googleUrl, '_blank');
     });
+
 }
